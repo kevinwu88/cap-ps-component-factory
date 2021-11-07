@@ -1,0 +1,1 @@
+# cap-ps-component-factory
